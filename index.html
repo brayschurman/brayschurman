@@ -1,153 +1,145 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Bray Schurman</title>
-    <link rel="icon" type="image/x-icon" href="./img/favicon.webp">
-    <meta name="description" content="Bray Schurman">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Bray Schurman</title>
+  <link rel="icon" type="image/x-icon" href="./img/favicon.webp">
+  <meta name="description" content="Bray Schurman">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <style>
-    html {
-        background-color: whitesmoke;
-        color: #333333;
-    }
+  html {
+    background-color: whitesmoke;
+    color: #333333;
+  }
 
-    body {
-        font-family: 'Helvetica', sans-serif;
-    }
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
 
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  #wrap {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0% 5% 5% 5%;
+  }
+
+  .mediaBorder {
+    border-radius: 12px;
+  }
+
+  .description {
+    width: 90%;
+  }
+
+  .compContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .sectionContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 10px 0px 20px 0px;
+  }
+
+  .horizontal {
+    margin: 20px 0px 10px 0px;
+    color: lightgray;
+    width: 66%;
+  }
+
+  .socialIcon {
+    width: 35px;
+    height: 35px;
+    margin: 0px 10px 0px 10px;
+  }
+
+  /* iPads (portrait and landscape) ----------- */
+  @media only screen and (min-width : 768px) and (max-width : 1024px) {
     #wrap {
-        display: flex;
-        flex-wrap: wrap;
-        margin: 0% 5% 5% 5%;
+      margin: 0% 15% 5% 15%;
     }
+  }
 
-    #mainPic {
-        width: 100%;
+  /* Desktops and laptops ----------- */
+  @media only screen and (min-width : 1224px) {
+    #wrap {
+      margin: 0% 25% 5% 25%;
     }
+  }
 
-    .mediaBorder {
-        border-radius: 12px;
+  /* Large screens ----------- */
+  @media only screen and (min-width : 1824px) {
+    #wrap {
+      margin: 0% 30% 5% 30%;
     }
-
-    .description {
-        width: 90%;
-    }
-
-    .compContainer {
-        width: 100%;
-        display: flex;
-        justify-content: center;
-    }
-
-    .sectionContainer {
-        width: 100%;
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        text-align: center;
-        margin: 10px 0px 20px 0px;
-    }
-
-    .horizontal {
-        margin: 20px 0px 10px 0px;
-        color: lightgray;
-        width: 66%;
-    }
-
-    .socialIcon {
-        width: 35px;
-        height: 35px;
-        margin: 0px 10px 0px 10px;
-    }
-
-    /* iPads (portrait and landscape) ----------- */
-    @media only screen and (min-width : 768px) and (max-width : 1024px) {
-        #wrap {
-            margin: 0% 15% 5% 15%;
-        }
-    }
-
-    /* Desktops and laptops ----------- */
-    @media only screen and (min-width : 1224px) {
-        #wrap {
-            margin: 0% 25% 5% 25%;
-        }
-    }
-
-    /* Large screens ----------- */
-    @media only screen and (min-width : 1824px) {
-        #wrap {
-            margin: 0% 30% 5% 30%;
-        }
-    }
+  }
 </style>
 
 <body>
-    <div id="wrap">
-        <h1>Bray Schurman</h1>
-        <div class="compContainer">
-            <img alt="Bray Schurman" style="width:100%;" class="mediaBorder" src="./img/brayschurman.webp"
-                alt="Bray Schurman">
-        </div>
+  <div id="wrap">
+    <h1>Bray Schurman</h1>
+    <div class="compContainer">
+      <img alt="Bray Schurman" class="mediaBorder" src="./img/bray.webp" height="900" width=900" alt="Bray Schurman">
+    </div>
 
-        <div class="compContainer" style="text-align:left;">
-            <p class="description"><strong>Bray Schurman</strong> is a music producer, writer, and
-                multi-instrumentalist. Check out some of
-                his
-                music below. He'd love to work on your next project. Bray can be contacted through email at
-                braytheproducer@gmail.com.
-            </p>
-        </div>
+    <div class="compContainer" style="text-align:left;">
+      <p class="description"><strong>Bray Schurman</strong> is a music producer, writer, and
+        multi-instrumentalist. Check out some of
+        his
+        music below. Bray can be contacted through email at
+        braytheproducer@gmail.com.
+      </p>
+    </div>
 
-        <div class="compContainer">
-            <hr class="horizontal">
-        </div>
+    <div class="compContainer">
+      <hr class="horizontal">
+    </div>
 
 
-        <div class="sectionContainer">
-            <h4 style="width: 100%; margin: 0;">Bray Schurman</h4>
-            <small style="width: 100%;">Playlist</small>
-        </div>
+    <div class="sectionContainer">
+      <h2 style="width: 100%; margin: 0;">Bray Schurman</h2>
+      <small style="width: 100%;">Playlist</small>
+    </div>
 
-        <div class="compContainer">
-            <iframe class="mediaBorder"
-                src="https://open.spotify.com/embed/playlist/7meDNszByT9O7PJ7gfgCYN?utm_source=generator" width="100%"
-                height="380" frameBorder="0" allowfullscreen="" title="Bray's Spotify Platlist"
-                allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
-            </iframe>
-
-        </div>
-
-        <div class="compContainer">
-            <hr class="horizontal">
-        </div>
-
-        <div class="sectionContainer">
-            <h4 style="width: 100%; margin: 0px 0px 15px 0px;">Contact</h4>
-            <div id="emailDiv" style="width: 100%; text-decoration: underline;">braytheproducer@gmail.com</div>
-        </div>
-
-        <div class="sectionContainer">
-            <!-- <a aria-label="Instagram" href="https://www.instagram.com/brayschurman/" rel="noopener noreferrer"
-                target="_blank">
-                <img alt="Instagram" src="./img/instagram.webp" class="socialIcon">
-            </a> -->
-            <a aria-label="Soundbetter" href="https://soundbetter.com/profiles/526439-bray-schurman"
-                rel="noopener noreferrer" target="_blank" title="Bray Schurman profile on SoundBetter">
-                <img alt="Bray Schurman, Producer on SoundBetter"
-                    src="https://d2p6ecj15pyavq.cloudfront.net/assets/SoundBetterBadge-c84cb3e75c4267f5bee41f7f617a81d9.svg"
-                    style="width: 100px;" />
-            </a>
-            <!-- <a aria-label="Spotify" href="https://open.spotify.com/playlist/7meDNszByT9O7PJ7gfgCYN?si=ecedf5c223fd4cda"
-                rel="noopener noreferrer" target="_blank">
-                <img alt="Spotify" src="./img/spotify.webp" class="socialIcon">
-            </a> -->
-        </div>
+    <div class="compContainer">
+      <iframe class="mediaBorder"
+        src="https://open.spotify.com/embed/playlist/7meDNszByT9O7PJ7gfgCYN?utm_source=generator" width="100%"
+        height="380" frameBorder="0" allowfullscreen="" title="Bray's Spotify Platlist"
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+      </iframe>
 
     </div>
+
+    <div class="compContainer">
+      <hr class="horizontal">
+    </div>
+
+    <div class="sectionContainer">
+      <h2 style="width: 100%; margin: 0px 0px 15px 0px;">Contact</h2>
+      <div id="emailDiv" style="width: 100%; text-decoration: underline;">braytheproducer@gmail.com</div>
+    </div>
+
+    <div class="sectionContainer">
+      <a aria-label="Soundbetter" href="https://soundbetter.com/profiles/526439-bray-schurman" rel="noopener noreferrer"
+        target="_blank" title="Bray Schurman profile on SoundBetter">
+        <img alt="Bray Schurman, Producer on SoundBetter" width="125" height="50"
+          src="https://d2p6ecj15pyavq.cloudfront.net/assets/SoundBetterBadge-c84cb3e75c4267f5bee41f7f617a81d9.svg" />
+      </a>
+    </div>
+
+  </div>
 </body>
 
 </html>
