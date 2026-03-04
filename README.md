@@ -16,24 +16,20 @@
 
 ## Current Projects
 
-- 📸 **[instacollage](<https://github.com/brayschurman/>
-  instacollage)** — Simple, vanilla JS collage-maker for
-  Instagram posts.
-- 🧠 **[neat-things](<https://github.com/brayschurman/neat->
-  things)** — Things I can’t remember.
-- ⏱️ **[blocktimer](<https://github.com/brayschurman/>
-  blocktimer)** — One, two, or many timers. Loopable and
-  shuffleable.
-- 🪑 **[ineedtositdown](<https://github.com/brayschurman/>
-  ineedtositdown)** — Press a button and get a random
-  Toronto street bench.
+- 📸 **[instacollage](https://instacollage.vercel.app/)** — Simple, vanilla JS collage-maker for Instagram posts.
+- 🚐 **[vanplanr](https://vanplanr.com/)** — Van conversion planning platform for project management, tasks, and budget tracking. ([repo](https://github.com/brayschurman/vanplanr))
+- 🫁 **[breathe](https://breathe-ebon.vercel.app/)** — A guided 4-7-8 breathing web application with paced inhale, hold, and exhale cycles to help with focus, stress reduction, and quick nervous-system resets. ([repo](https://github.com/brayschurman/breathe))
+- 🎬 **[thisonepart](https://github.com/brayschurman/thisonepart)** — A YouTube timestamp chat room app where you share clips with exact start/end times in a scrolling, news-feed-style room with reactions.
+- 🧠 **[neat-things](https://github.com/brayschurman/neat-things)** — Things I can’t remember.
+- ⏱️ **[blocktimer](https://github.com/brayschurman/blocktimer)** — One, two, or many timers. Loopable and shuffleable.
+- 🪑 **[ineedtositdown](https://github.com/brayschurman/ineedtositdown)** — Press a button and get a random Toronto street bench.
 
 ## What I’m Into
 
 - 🛠️ Small simple tools with clear UX
-- 🌆 Projects that are actually useful
 - 🧪 Working fast, shipping fast
 - 📚 Trying out new technologies
+- 💻 Loud music, weird movies, classic books
 
 ## Connect
 
