@@ -33,9 +33,6 @@
 
 ## Connect
 
-- 📫 **Email:** [brayschurman@icloud.com]
-  (mailto:brayschurman@icloud.com)
-- 💼 **LinkedIn:** [in/brayschurman](https://
-  <www.linkedin.com/in/brayschurman>)
-- 🐙 **GitHub:** [@brayschurman](<https://github.com/>
-  brayschurman)
+- 📫 **Email:** [brayschurman@icloud.com](mailto:brayschurman@icloud.com)
+- 💼 **LinkedIn:** [in/brayschurman](https://www.linkedin.com/in/brayschurman)
+- 🐙 **GitHub:** [@brayschurman](https://github.com/brayschurman)
