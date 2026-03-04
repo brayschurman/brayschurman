@@ -12,7 +12,7 @@
   ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
   ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-  > I like building stuff I actually use, most project are closed source.
+  > I like building stuff I actually use, most projects are closed source.
 
 ## Current Projects
 
