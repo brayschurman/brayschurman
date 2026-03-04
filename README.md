@@ -12,8 +12,7 @@
   ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
   ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-  > I like building practical tools, playful experiments,
-  and apps that solve real everyday problems.
+  > I like building stuff I actually use, most project are closed source.
 
 ## Current Projects
 
@@ -31,10 +30,10 @@
 
 ## What I’m Into
 
-- 🛠️ Small tools with clear UX
-- 🌆 Toronto-focused ideas and data-driven side projects
-- 🧪 Fast prototypes over overthinking
-- 📚 Keeping useful dev notes for future me
+- 🛠️ Small simple tools with clear UX
+- 🌆 Projects that are actually useful
+- 🧪 Working fast, shipping fast
+- 📚 Trying out new technologies
 
 ## Connect
 
