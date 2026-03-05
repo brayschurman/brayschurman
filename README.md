@@ -16,6 +16,7 @@
 
 ## Current Projects
 
+- 🎥✨ **[compress.to](https://compressto.vercel.app/)** — Record a quick camera clip, compress it in-browser, and download a tiny share-ready file. ([repo](https://github.com/brayschurman/compressto))
 - 🫁 **[breathe](https://breathe-ebon.vercel.app/)** — A guided 4-7-8 breathing web application with paced inhale, hold, and exhale cycles to help with focus, stress reduction, and quick nervous-system resets. ([repo](https://github.com/brayschurman/breathe))
 - 🎬 **[clipstrr](https://github.com/brayschurman/clipstrr)** — A YouTube timestamp chat room app where you share clips with exact start/end times in a scrolling, news-feed-style room with reactions.
 - 📸 **[instacollage](https://instacollage.vercel.app/)** — Simple, vanilla JS collage-maker for Instagram posts. ([repo](https://github.com/brayschurman/instacollage))
